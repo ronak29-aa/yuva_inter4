@@ -1,0 +1,20 @@
+feature,importance
+cat__crop_Wheat,0.5124341789517437
+num__previous_yield_t_ha,0.3915819378479612
+num__temp_stress_index,0.02909881251959585
+num__annual_rainfall_mm,0.015210047533626531
+num__avg_temp_c,0.010331012052077005
+cat__state_Gujarat,0.008872495328540682
+num__rainfall_irrigation_interaction,0.007998243632184385
+num__year_index,0.0066048420034905886
+num__soil_ph,0.0042571102811347124
+num__soil_n_mgkg,0.004039626109184573
+num__rainfall_deviation_mm,0.002777124645315543
+num__area_ha,0.0016131876571042066
+num__soil_n_ph_interaction,0.001570710862432053
+num__irrigation_index,0.0012050154169310962
+cat__crop_Cotton,0.00097258055031321
+cat__crop_Soybean,0.0009304131330405493
+cat__state_Madhya Pradesh,0.00031257944700267023
+cat__state_Maharashtra,0.00010339215862525069
+cat__state_Punjab,8.668986969628665e-05

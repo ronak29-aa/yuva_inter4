@@ -1,0 +1,11 @@
+id,issue,description,method,status
+RAW-01,Duplicate natural-key row,year+state+crop duplicate introduced,"Drop duplicate, keep first",Resolved
+RAW-02,Missing rainfall,One rainfall value missing,State-crop median imputation,Resolved
+RAW-03,Missing soil nitrogen,One soil N value missing,State median imputation,Resolved
+RAW-04,Missing soil pH,One soil pH value missing,State median imputation,Resolved
+RAW-05,Whitespace category,Crop label contains leading/trailing spaces,Trim string values,Resolved
+FE-01,Rainfall deviation,Weather level relative to state baseline,annual rainfall - state mean,Created
+FE-02,Temperature stress,Nonlinear temperature departure,abs(avg temp - 24°C),Created
+FE-03,Rainfall × irrigation,Interaction between rainfall and irrigation,multiplication,Created
+FE-04,Soil N × pH,Simple soil interaction,multiplication,Created
+FE-05,Previous yield,Lagged target signal,prior year within state-crop,Created

@@ -1,0 +1,24 @@
+# Week 4 Final Submission Checklist
+
+- [x] Executive summary
+- [x] Predictive problem definition
+- [x] Target variable and performance metrics
+- [x] Public agricultural data-source research
+- [x] Data-selection rationale
+- [x] Feature dictionary and feature rationale
+- [x] Data cleaning strategy
+- [x] Feature engineering strategy
+- [x] Regression / tree / ensemble model discussion
+- [x] Reproducible model training script
+- [x] Time-aware train/test methodology
+- [x] Model evaluation metrics
+- [x] Actual-vs-predicted analysis
+- [x] Feature importance
+- [x] Computational considerations
+- [x] Risks and limitations
+- [x] Agribusiness interpretation
+- [x] Reproducibility instructions
+- [x] Visualizations
+- [x] Model outputs and predictions
+- [x] README
+- [x] ZIP integrity check
